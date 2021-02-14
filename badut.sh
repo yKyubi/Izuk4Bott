@@ -4,7 +4,7 @@ hijau="\033[1;32m"
 putih="\033[1;37m"
 biru="\033[0;34m"
 kuning="\033[1;33m"
-paku="darkzin"
+paku="izuk4bot"
 until [ "$pass" = "$paku" ]
 do
 clear
@@ -76,7 +76,7 @@ sleep 2
 git clone https://github.com/Darkziinh/SITEX
 git clone https://github.com/Darkziinh/apikey
 git clone https://github.com/Darkziinh/testek
-cd darkbot3.0
+cd error-
 chmod +x git.sh
 echo "$verde"
 echo "Agora tem 2 etapas de senhas...."
