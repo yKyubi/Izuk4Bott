@@ -7,3 +7,4 @@
  *
  * author                (𝑴𝑰𝑫𝑶𝑹𝑰𝒀𝑨𝑲𝑲𝑲𝑲𝑲𝑲𝑲)
  * Copyright notice      (bot com suporte a Android/Java)
+Base by: Dark yt
